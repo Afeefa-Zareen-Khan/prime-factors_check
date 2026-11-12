@@ -1,5 +1,5 @@
 # prime-factors_check
-A robust, interactive command-line interface (CLI) tool written in Python to evaluate prime numbers and calculate mathematical factors, featuring specific exception handling for seamless user interaction
+CLI tool to check primes and find factors, with error handling
 # Prime & Factor Checker CLI
 
 An interactive command-line application built in Python that allows users to seamlessly check if a number is prime and generate a complete list of its mathematical factors. The project highlights foundational logic, structured modular functions, and robust exception handling.
